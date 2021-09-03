@@ -109,46 +109,19 @@ To summarize our example:
 ### champion_matrix
 
 There are 57 champions and 26 traits in set 5.5. The champion_matrix is a (57 * 27) matrix with each of its row represents a champion. The first 26 elements represents the traits of the champion in the way that if the i-th element is 1 means the champion has the trait with index i as its trait. The last element denotes the cost of the champion. The champion_matrix looks like this:
-$$
-\left(\begin{array}{cc}
-0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 0 & 0 & 1\\
-0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 5\\
-& & & & & & & & & & & & & .\\
-& & & & & & & & & & & & & .\\
-& & & & & & & & & & & & & .\\
-0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 3
-\end{array}\right)
-$$
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/champion_matrix.png "champion_matrix")
 Take the 0-th trait (first row, we use 0-indexing all the way) as an example which represents the champion Aatrox . Its cost is 1 so the last element is 1. Aatrox has redeemed and legionnaire as its traits so the 15-th and 19-th elements are set to 1.
 
 ### trait_matrix
 
 The trait_matrix is a (26 * 10) matrix with each of its row represents a trait. The i-th element of the 10 elements in each row will be set to 1 if exactly i champions can activate some level of the current trait, otherwise 0. The trait_matrix looks like this:
-$$
-\left(\begin{array}{cc}
-0 & 0 & 0 & 1 & 1 & 1 & 0 & 0 & 0 & 0\\
-0 & 0 & 1 & 0 & 1 & 0 & 1 & 0 & 0 & 0\\
-& & & & & .\\
-& & & & & .\\
-& & & & & .\\
-0 & 0 & 1 & 0 & 1 & 0 & 1 & 0 & 0 & 0
-\end{array}\right)
-$$
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/trait_matrix.png "trait_matrix")
 Take the 0-th trait (first row) as an example, which represents the abomination trait, and abomination has a structure of [3, 4, 5], so the third, forth and fifth element are 1 and others are 0. For convenience, the 0-th column(first element) of all traits are 0, because 0 champion can not activate anything.
 
 ### trait_number_matrix
 
 The trait_number_matrix is a (26 * 5) matrix with each of its row represents a trait. The i-th element of the 5 elements in each row represents the exact number of champions needed to activate the i-th level of the current trait. The trait_number_matrix looks like this:
-$$
-\left(\begin{array}{cc}
-0 & 3 & 4 & 5 & 0\\
-0 & 2 & 4 & 6 & 0\\
-& & .\\
-& & .\\
-& & .\\
-0 & 2 & 4 & 6 & 0
-\end{array}\right)
-$$
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/trait_number_matrix.png "trait_number_matrix")
 Take the 0-th trait(first row) as an example, which represents the abomination trait, and abomination has 3 levels and can be activated at [3, 4, 5], so the second element (level 1) being  3 means that it takes exact 3 champions with abomination trait to activate a level 1 abomination trait for the comp. For convenience, the 0-th column(first element) of all traits are 0, because a level 0 trait has no meaning.
 
 ## Grading Strategy
@@ -281,7 +254,7 @@ The result is returned as a `networkx` directed graph object where each node is 
 
 I provide some code in the `TestNotebook.ipynb` to divide the whole graph to individual transition tree and change the node from `bit_code` to readable strings.
 
-![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/transition.png "graph")
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/transition.png "transition")
 
 `networkx` and Cytoscape both provides lots of graph analysis tools. You can analyze your result accordingly.
 

@@ -285,9 +285,9 @@ print(cost)
 ## Afterword
 
 Ever since the TFT game was created, I've been trying to use coding to find interesting comps. However there are 1,652,411,475 possible combinations for a 8 champions comp (choose 8 from 57), let alone level 9 comps. The computation are too expensive and my coding skills are too weak. Now with multi-processing ,some mathematical theory and numpy's amazing matrix broadcasting, I am able to pull this off. Imagine to enumerate through level 5 till level9, that is:
-$$
+
 4,187,106 + 36,288,252 + 264,385,836 + 1,652,411,475 + 8,996,462,475 = 10,953,735,144
-$$
+
 Almost 11 billion comps get graded in 48 hours on a regular laptop and no GPU acceleration!
 
 The results I got from my grading strategy looks interesting but are not very practical. Most of them are just like the example, our example has 11 traits activated while it is not very strong in real game play.

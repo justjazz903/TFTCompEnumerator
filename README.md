@@ -277,7 +277,7 @@ Up till now, we never talked about how to extract comps after we gave all the co
 
 The result is returned as a `networkx` directed graph object where each node is a comp represented by `bit_code`  and has a property of the comp's level. In Cytoscape it looks like this:
 
-![graph](D:\Github\TFTCompEnumerator\img\graph.png)
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/img/graph.png "graph")
 
 I provide some code in the `TestNotebook.ipynb` to divide the whole graph to individual transition tree and change the node from `bit_code` to readable strings.
 

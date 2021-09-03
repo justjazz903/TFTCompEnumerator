@@ -281,7 +281,7 @@ The result is returned as a `networkx` directed graph object where each node is 
 
 I provide some code in the `TestNotebook.ipynb` to divide the whole graph to individual transition tree and change the node from `bit_code` to readable strings.
 
-![transition](D:\Github\TFTCompEnumerator\img\transition.png)
+![alt text](https://github.com/justjazz903/TFTCompEnumerator/blob/main/img/transition.png "graph")
 
 `networkx` and Cytoscape both provides lots of graph analysis tools. You can analyze your result accordingly.
 

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="layer" attr.type="int" />
+  <graph edgedefault="directed">
+    <node id="['akshan', 'galio', 'garen', 'heimerdinger', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']">
+      <data key="d0">4</data>
+    </node>
+    <node id="['galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']">
+      <data key="d0">3</data>
+    </node>
+    <node id="['galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']">
+      <data key="d0">3</data>
+    </node>
+    <node id="['akshan', 'galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'senna']">
+      <data key="d0">3</data>
+    </node>
+    <node id="['akshan', 'galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']">
+      <data key="d0">3</data>
+    </node>
+    <node id="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']">
+      <data key="d0">2</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']">
+      <data key="d0">2</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']">
+      <data key="d0">1</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']">
+      <data key="d0">1</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'pyke', 'riven']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['aatrox', 'irelia', 'nidalee', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['aatrox', 'irelia', 'nidalee', 'olaf', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="[&quot;kha'zix&quot;, 'olaf', 'pyke', 'rakan', 'soraka']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['aatrox', 'irelia', 'nidalee', 'olaf', 'rakan']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'pyke', 'riven', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'riven', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'riven']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'pyke', 'yasuo']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'senna', 'yasuo']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'kalista', 'nidalee', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'kalista', 'nidalee', 'olaf', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'kennen', &quot;kha'zix&quot;, 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'lee sin', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'rakan']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['gragas', 'irelia', 'nidalee', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['gragas', 'irelia', 'nidalee', 'olaf', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['gragas', 'irelia', 'nidalee', 'olaf', 'rakan']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'udyr']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'riven']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'soraka']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'miss fortune', 'nidalee', 'olaf', 'senna']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'nocturne', 'olaf', 'pyke']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'pyke', 'soraka']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'senna', 'soraka']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'senna', 'tristana']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'rakan', 'riven']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'rakan', 'soraka']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'rakan', 'yasuo']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'kalista', 'nidalee', 'olaf', 'rakan']">
+      <data key="d0">0</data>
+    </node>
+    <node id="['irelia', 'nidalee', 'olaf', 'rakan', 'vladimir']">
+      <data key="d0">0</data>
+    </node>
+    <edge source="['akshan', 'galio', 'garen', 'heimerdinger', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', 'heimerdinger', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', 'heimerdinger', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['akshan', 'galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', 'heimerdinger', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['akshan', 'galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" />
+    <edge source="['galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" />
+    <edge source="['galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'rakan', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" />
+    <edge source="['galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" target="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" />
+    <edge source="['galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'senna']" target="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', 'irelia', &quot;kha'zix&quot;, 'lucian', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" target="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" />
+    <edge source="['akshan', 'galio', 'garen', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" />
+    <edge source="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" />
+    <edge source="['galio', 'irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'lucian', 'olaf', 'pyke', 'rakan', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="[&quot;kha'zix&quot;, 'olaf', 'pyke', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'riven', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'riven', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'senna', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'kennen', &quot;kha'zix&quot;, 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'lee sin', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'udyr']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'miss fortune', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'nocturne', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'senna', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'senna', 'tristana']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'senna']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'vladimir']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="[&quot;kha'zix&quot;, 'olaf', 'pyke', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['aatrox', 'irelia', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'riven', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'riven', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'senna', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'kennen', &quot;kha'zix&quot;, 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'lee sin', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['gragas', 'irelia', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'olaf', 'pyke', 'udyr']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', &quot;kha'zix&quot;, 'pyke', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'miss fortune', 'nidalee', 'olaf', 'senna']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'nocturne', 'olaf', 'pyke']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'pyke', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'senna', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'senna', 'tristana']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'riven']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'soraka']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'yasuo']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'kalista', 'nidalee', 'olaf', 'rakan']" />
+    <edge source="['irelia', &quot;kha'zix&quot;, 'nidalee', 'olaf', 'pyke', 'rakan']" target="['irelia', 'nidalee', 'olaf', 'rakan', 'vladimir']" />
+  </graph>
+</graphml>

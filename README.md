@@ -39,7 +39,7 @@ Wait till the running is over and results will be in `./graph/` folder. The pick
 
 ## Data Representation
 
-To custom your own grading strategies, you need to know how the data are represented.
+To custom your own grading strategies, you need to know how the data is represented.
 
 ### Champions and Traits
 
@@ -294,7 +294,7 @@ The results I got from my grading strategy looks interesting but are not very pr
 
 My dream is to build an AI player to play TFT like the Alpha Go project and I started this project that way. I did not started with reinforcement learning because I did not want to get too involved with the math and theories. So I started with simple enumeration and grading. Now 6 months later, here I am reading the reinforcement learning textbook and find it's fascinating. Those math and theories are truly magical and make my dream looking more and more realistic. Now I think about it, the graph is actually just a part of the Markov Decision Process.
 
-I even write a computer vision module for this project with `pyautogui` and `opencv`, along the way I ran into `imagehash` and `fastai` which are also very amazing. But I did not get to finished it because I got exhausted by the image recognizing process, comparing different algorithms, machine learning approaches and mathematical approaches. Not to mention building a training image set and labeling it manually for my neural network. Although deep down I know that using `cv2.matchTemplate()` might be just enough. Guess I'm somewhat compulsive.
+I even wrote a computer vision module for this project with `pyautogui` and `opencv`, along the way I ran into `imagehash` and `fastai` which are also very amazing. But I did not get to finished it because I got exhausted by the image recognizing process, comparing different algorithms, machine learning approaches and mathematical approaches. Not to mention building a training image set and labeling it manually for my neural network. Although deep down I know that using `cv2.matchTemplate()` might be just enough. Guess I'm somewhat compulsive.
 
 I'm learning reinforcement learning for now so no more coding for a while (although I still use coding to do some of examples in the book). I'm open for discussion with people who share this same little interest. 
 

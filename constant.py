@@ -5,6 +5,6 @@ CONSTANT = {
         'GRAPH': './graph/',
     },
     'FILE': {
-        'JSON': './TFTDataSet.json',
+        'JSON': './TFTDataSet6.json',
     }
 }

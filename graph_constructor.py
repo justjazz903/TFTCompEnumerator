@@ -7,10 +7,10 @@ from namespace.graph.connect import connect
 from namespace.util.path_initializer import init_path
 
 if __name__ == '__main__':
-    levels = [5, 6, 7, 8, 9]
+    levels = [8]
     max_diff = [2, 2, 2, 2]
-    trait_level = 2
-    # base = 1.5
+    # trait_level = 2
+    base = 1.35
     max_workers = None
     reduced_size = 3162510 # C(54, 5) = 3162510
 
@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     for level in levels:
         init_path()
-        # poker_grade(trait_number_matrix, base, champion_matrix, trait_matrix, level, reduced_size, max_workers)
-        simple_grade(trait_level, champion_matrix, trait_matrix, level, reduced_size, max_workers)
+        poker_grade(trait_number_matrix, base, champion_matrix, trait_matrix, level, reduced_size, max_workers)
+        # simple_grade(trait_level, champion_matrix, trait_matrix, level, reduced_size, max_workers)
         extract(level, champion_matrix, trait_matrix, max_workers)
     connect(max_diff, champion_matrix.shape[0])

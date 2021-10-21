@@ -3,7 +3,7 @@ from sys import getsizeof
 import pickle
 
 from namespace.graph.grader import simple_grader, poker_grader
-from namespace.graph.combination_reducer import reduce_combination
+from namespace.graph.combination_reducer import reduce_combination_set6
 from constant import CONSTANT
 
 def get_scores_size(scores):
@@ -21,7 +21,7 @@ def merge_dict(d1, d2):
 
 def poker_grade(trait_number_matrix, base, champion_matrix, trait_matrix, level, reduced_size, max_workers):
     all_comp_id = list()
-    reduce_combination([i for i in range(champion_matrix.shape[0])], level, [], reduced_size, all_comp_id)
+    reduce_combination_set6([i for i in range(champion_matrix.shape[0])], level, [], reduced_size, all_comp_id)
     scores = dict()
     with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
         batch_index = 1
@@ -55,7 +55,7 @@ def poker_grade(trait_number_matrix, base, champion_matrix, trait_matrix, level,
 
 def simple_grade(trait_level, champion_matrix, trait_matrix, level, reduced_size, max_workers):
     all_comp_id = list()
-    reduce_combination([i for i in range(champion_matrix.shape[0])], level, [], reduced_size, all_comp_id)
+    reduce_combination_set6([i for i in range(champion_matrix.shape[0])], level, [], reduced_size, all_comp_id)
     scores = dict()
     with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
         batch_index = 1
